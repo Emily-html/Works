@@ -210,20 +210,18 @@ font-family:'Times New Roman', Times, serif;}
 align-items: center;
 .book{
   p{
-    font-size: 20px;
+    font-size: 30px;
   }
 }
 
 }
 .map{
-  .lead{
-    font-size: 30px;
-  }
+  
   #form1{
     width:80%;
   }
   #info{
-    font-size: 20px;
+    font-size: 30px;
   }
 }
 .about{
@@ -235,10 +233,10 @@ align-items: center;
 table{
 flex-basis: 95%;
   th{
-    font-size: 24px;
+    font-size: 35px;
   }
   td{
-    p{   font-size: 20px;}
+    p{   font-size: 30px;}
  
   }
 
@@ -256,11 +254,8 @@ flex-basis: 95%;
     height: 10px;
     border-radius: 10px;
   }
-   #que,label,p{
-    font-size: 15px;
-   }
+  
   
 }
 
 }
-
