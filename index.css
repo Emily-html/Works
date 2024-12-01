@@ -140,33 +140,33 @@ td{
   border:1px solid black;
   border-radius: 2px;
   font-size: 15px;
-  padding: 20px;
+  padding: 10px;
   text-transform: capitalize;
   #b1,#a1{
     
-    padding: 5px 0;
+    padding: 3px 0;
     border: 2px solid black;
     border-radius: 5px;
   }
   #r1,#r2,#r3,#r4{
-    width:20px;
-    height: 20px;
+    width:18px;
+    height: 18px;
 
   }
   #r{
-    width: 20px;
-    height: 20px;
+    width: 18px;
+    height: 18px;
     border-radius: 10px;
   }
   
   p,label{
 
-    font-size: 20px;
+    font-size: 18px;
   
   }
   
   #que{
-    font-size: 25px;
+    font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     text-transform: uppercase;
   }
