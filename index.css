@@ -141,7 +141,7 @@ td{
   margin-top:100px;
   border:1px solid black;
   border-radius: 2px;
-  font-size: 15px;
+  font-size: 18px;
   padding: 10px;
   text-transform: capitalize;
   #b1,#a1{
@@ -159,9 +159,7 @@ td{
     height: 18px;
     border-radius: 10px;
   }
-  p,label{
-    font-size: 18px;
-  }
+ 
   
   
   #que{
@@ -242,4 +240,5 @@ flex-basis: 95%;
 
 }
 }
+
 }
