@@ -1,17 +1,17 @@
 .header{
-  height: 70px;
+  height: 110px;
   background-color: white;
     position: sticky;
     top:0px;
     #p1{
     float: left;
-    width:70px;
-    height: 70px;
+    width:100px;
+    height: 100px;
     }
     #p2{
      float:right;
-     width:40px;
-     height: 40px;
+     width:80px;
+     height: 80px;
     }
     padding: 20px 30px;
 }
@@ -63,7 +63,7 @@ margin-top: 100px;
   flex-basis: 30%;
 align-items: center;
 margin: 20px;
-  font-size: 15px;
+  font-size: 20px;
 img{
   width: 100%;
  
@@ -72,14 +72,14 @@ img{
 
 }
 p{
- font-size: 15px; 
+ font-size: 20px; 
 }
 padding: 30px 32px;
 }
 .about{
 display: flex;
 flex-flow: row wrap;
-font-size: 15px;
+font-size: 20px;
 padding: 30px 30px;
 .colum{
 flex-basis: 30%;
@@ -192,7 +192,7 @@ td{
  #mapp{ width: 90%;
   
 }
-body{font-size: 30px;
+body{
 font-family:'Times New Roman', Times, serif;}
 .frame{
   flex-direction: column;
@@ -235,12 +235,6 @@ flex-basis: 95%;
     width: 10px;
     height: 10px;
     border-radius: 10px;
-  }
-  
-  #que,p,label{
-
-    font-size: 15px;
-  
   }
   
   
