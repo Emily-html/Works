@@ -235,10 +235,10 @@ align-items: center;
 table{
 flex-basis: 95%;
   th{
-    font-size: 20px;
+    font-size: 24px;
   }
   td{
-    font-size: 15px;
+    font-size: 20px;
   }
 
 }
