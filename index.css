@@ -242,20 +242,4 @@ flex-basis: 95%;
 
 }
 }
-#form1{
-  
-  #r1,#r2,#r3,#r4{
-    width:10px;
-    height: 10px;
-    
-  }
-  #r{
-    width: 10px;
-    height: 10px;
-    border-radius: 10px;
-  }
-  
-  
-}
-
 }
