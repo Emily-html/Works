@@ -238,7 +238,8 @@ flex-basis: 95%;
     font-size: 24px;
   }
   td{
-    font-size: 20px;
+    p{   font-size: 20px;}
+ 
   }
 
 }
